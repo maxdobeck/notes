@@ -6,6 +6,8 @@ Looks awesome.
 Source
 https://www.youtube.com/watch?v=ztsOwk1zB3o
 https://darknightelf.wordpress.com/2015/01/01/gnu-parallel-on-osx/
+https://youtu.be/ry49BZA-tgg
+https://alexplescan.com/posts/2023/08/20/gnu-parallel/
 
 ## applications
 run multiple tests in parallel without the need for a heavy framework
